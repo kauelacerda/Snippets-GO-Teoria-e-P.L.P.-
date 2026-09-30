@@ -1,2 +1,2 @@
 # Snippets-GO-Teoria-e-P.L.P.-
-3 exemplos de códigos TEORIA E PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO DO PROFESSOR ADOLFO FRANCESCO COM  Um brief técnico
+três exemplos de programa em Go, para a avaliação de TEORIA E PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO com Professor ADOLFO FRANCESCO, o grupo é composto por Addan Torrinha, Gustavo Pereira, Kauê Lacerda
