@@ -14,5 +14,3 @@ Grupo:
 
 ---
 
-## 📁 Documentação em PDF
-- [Acessar documento PDF do projeto](./Briefing_Tecnico_Go.pdf)
